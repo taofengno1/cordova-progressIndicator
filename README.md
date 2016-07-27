@@ -13,29 +13,12 @@ There are several types of indicators available:
 # Install
 
 ```
-npm install cordova-plugin-progressindicator
+cordova plugin add https://github.com/taofengno1/cordova-progressIndicator.git
 ```
 
 # [View the Docs](http://pbernasconi.github.io/cordova-progressIndicator/)
 
 The Docs are situated at [http://pbernasconi.github.io/cordova-progressIndicator/](http://pbernasconi.github.io/cordova-progressIndicator/)
-
-
-## Screenshots
-
-iOS
-
-![ScreenShot](demo/screenshots/simple-large-img.jpg )
-
-|Simple|Label|Label-Detail|Success|Text Top|Text Botom|
-|------|-----|------------|-------|--------|----------|
-|![](demo/screenshots/simple.jpg)|![](demo/screenshots/simple-label.jpg)|![](demo/screenshots/simple-label-detail.jpg)|![](demo/screenshots/success.jpg)|![](demo/screenshots/text-top.jpg)|![](demo/screenshots/text-bottom.jpg)
-
-
-|Determinate|Determinate Label|Annular|Annular Label|Bar|Bar Label|
-|-----------|-----------------|-------|-------------|---|---------
-|![](demo/screenshots/determinate-simple.jpg)|![](demo/screenshots/determinate-label.jpg)|![](demo/screenshots/annular-simple.jpg)|![](demo/screenshots/annular-label.jpg)|![](demo/screenshots/bar-simple.jpg)|![](demo/screenshots/bar-label.jpg)
-
 
 
 ### CREDITS
